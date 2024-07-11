@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.14.1",
+    "@huggingface/inference": "^2.7.0",
     "next": "14.2.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "youtube-toolkit": "^1.0.5",
+    "youtube-transcript-api": "^1.1.2"
   },
   "devDependencies": {
     "eslint": "^8",
